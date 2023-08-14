@@ -2,7 +2,7 @@
 # Hello!
 
 Hey! Thanks for visiting my GitHub page!
-This repo consists of the projects I've worked on, some for the organizations I was a part of (I created models similar to the ones I had in my project with open source data) and some for my own understanding.
+This repo consists of the projects I had worked on in the earlier years, some for the organizations I was a part of (I created models similar to the ones I had in my project with open source data) and some for my own understanding.
 
 Well here's a list of the notebooks.
 
